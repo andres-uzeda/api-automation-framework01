@@ -1,0 +1,8 @@
+{
+    "userName": "andres.uzeda88@gmail.com",
+    "password": "Control123!",
+    "url": "https://todo.ly/api",
+    "authenticationUrl": "/authentication/token.json",
+    "userUrl": "/user.json",
+    "userIdUrl": "/user/"
+}
